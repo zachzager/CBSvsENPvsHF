@@ -1,0 +1,45 @@
+body{
+	font-family: futura;
+	background-image: url("jumbo.png");
+}
+
+h1{
+	text-align: center;
+	background-color: #508ABA;
+	margin-bottom:0px;
+	color: white;
+}
+
+#subheading_holder{
+	display: block;
+	text-align: center;
+	background-color: #87DAF5;
+}
+
+#subheading{
+	display: inline;
+	margin-right: 50px;
+	margin-left: 50px;
+	
+}
+
+.container{
+	display: inline-block;
+	margin-top: 100px;
+}
+
+.sidebar{
+	width: 200px;
+	border-right-width: 2px;
+	border-left-width: 2px;
+	border-style: solid;
+	margin-top: 125px;
+	background-color: #87DAF5;
+	display: inline-block;
+}
+
+.option{
+	margin-left: 5px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
